@@ -1,0 +1,14 @@
+/Users/cachep/OOP_Lab11/bin/Debug/net10.0/OOP_Lab11
+/Users/cachep/OOP_Lab11/bin/Debug/net10.0/OOP_Lab11.deps.json
+/Users/cachep/OOP_Lab11/bin/Debug/net10.0/OOP_Lab11.runtimeconfig.json
+/Users/cachep/OOP_Lab11/bin/Debug/net10.0/OOP_Lab11.dll
+/Users/cachep/OOP_Lab11/bin/Debug/net10.0/OOP_Lab11.pdb
+/Users/cachep/OOP_Lab11/obj/Debug/net10.0/OOP_Lab11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cachep/OOP_Lab11/obj/Debug/net10.0/OOP_Lab11.AssemblyInfoInputs.cache
+/Users/cachep/OOP_Lab11/obj/Debug/net10.0/OOP_Lab11.AssemblyInfo.cs
+/Users/cachep/OOP_Lab11/obj/Debug/net10.0/OOP_Lab11.csproj.CoreCompileInputs.cache
+/Users/cachep/OOP_Lab11/obj/Debug/net10.0/OOP_Lab11.dll
+/Users/cachep/OOP_Lab11/obj/Debug/net10.0/refint/OOP_Lab11.dll
+/Users/cachep/OOP_Lab11/obj/Debug/net10.0/OOP_Lab11.pdb
+/Users/cachep/OOP_Lab11/obj/Debug/net10.0/OOP_Lab11.genruntimeconfig.cache
+/Users/cachep/OOP_Lab11/obj/Debug/net10.0/ref/OOP_Lab11.dll
